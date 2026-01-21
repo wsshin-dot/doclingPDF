@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+_temp_*.pdf
+
+# Large PDF files (keep sample only)
+*.PDF
+!TC38X_9_11.PDF
+
+# Generated markdown files
+*.md
+!README.md
+
+# Node.js (legacy)
+node_modules/
+package*.json
