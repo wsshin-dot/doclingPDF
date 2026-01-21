@@ -1,0 +1,4 @@
+docling
+llama-index
+llama-index-embeddings-huggingface
+mcp
